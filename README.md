@@ -28,3 +28,6 @@ https://www.grandstream.com/sites/default/files/faq/gs_provisioning_guide_public
 http://www.voip-info.org/wiki/view/Grandstream+Configuration+Tool
 
 
+## yealink phonebook
+
+https://www.888voip.com/support/index.php?/Knowledgebase/Article/View/177/20/how-to-create-an-xml-phonebook-for-yealink-phones
